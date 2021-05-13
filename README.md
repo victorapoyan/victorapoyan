@@ -1,17 +1,15 @@
-### Welcome
+## Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+My name is Victor. I am Android Developer 🇩🇪🇦🇲. My passions are Mobile applications and Blockchain technologies. I love to write clean, tested, and readable code. Less code, fewer bugs. For the past years, I learned a lot and never stop learning, every new day is an opportunity to learn something new. Why I choose Android as my passion as it's free and open-source and 'every' human on this planet has access to the chip android device on which is running my application.
 
 
-
-My name is Victor, I'm 3 years old Android developer 👶. I was born in Armenia 🇦🇲, but currently living in 🇩🇪. I start development shortly after I was born. First, it was **C** then **C++** then **Objective-C** then **Embedded C** after **Java** and now it's **Kotlin**, what will be the next I don't know, but for sure it will be something which brings me a lot of fun.
-
-
-I have a simple idea, which is **Sharing of the knowledge** which I accumulate during past years, by developing with you an **Android** applications and explaining each and every line and by using different technics and technologies. 
+Success is a journey, not a destination, join my journey and let's make the world a better place for us.
 
 
-I guess this will be an awesome collaboration, where we both will learn from each other.
 
 [![Stackoverflow](https://img.shields.io/badge/-stackoverflow-grey?logo=Stackoverflow)](https://stackoverflow.com/users/15856233/victor-apoyan)
 [![Medium](https://img.shields.io/badge/-medium-grey?logo=medium)](	https://medium.com/@victor.apoyan)
+![](https://visitor-badge.glitch.me/badge?page_id=victorapoyan)
 
 
 
